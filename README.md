@@ -21,7 +21,7 @@
 - 🔭 I’m currently working on **MERN STACK WEB DEVELOPEMENT** - 📫 How to reach
   me **islam.ashraful.cse@gmail.com**
 
-  **My MERN stack project (Live link):-** <b><a href="https://majorproject-plvy.onrender.com/listings" style={"text-decoration: none"}>Wanderlust</a> </b>
+  **My MERN stack project (Live link):-** <b><a href="https://majorproject-plvy.onrender.com/listings" style="text-decoration: none">Wanderlust</a> </b>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
