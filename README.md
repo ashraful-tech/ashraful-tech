@@ -21,18 +21,23 @@
 - 🔭 I’m currently working on **MERN STACK WEB DEVELOPEMENT** - 📫 How to reach
   me **islam.ashraful.cse@gmail.com**
 
+**Project:-** 
   <table>
     <tr>
       <th>Name</th>
       <th>Link</th>
+      <th>Used Tecnology</th>
     </tr>
 
 <tr>
   <td>
-    **MERN stack project:-** 
+    MERN stack project
   </td>
   <td>
     <b><a href="https://majorproject-plvy.onrender.com/listings" style="text-decoration: none">Wanderlust</a> </b>
+  </td>
+  <td>
+    MERN (MongoBD, ExpressJs, React, NodeJs) 
   </td>
 </tr>
     
