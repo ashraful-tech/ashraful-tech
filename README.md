@@ -239,4 +239,16 @@
   </a>
 </p>
 
+![ashraful-tech's Stats](https://github-readme-stats.vercel.app/api?username=ashraful-tech&theme=dracula&show_icons=true&hide_border=false&count_private=true)
+
+<br>
+
+![ashraful-tech's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ashraful-tech&theme=dracula&hide_border=false)
+
+<br>
+
+![ashraful-tech's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashraful-tech&theme=dracula&show_icons=true&hide_border=false&layout=compact)
+
+<br>
+
 <p>Thats all for now</p>
