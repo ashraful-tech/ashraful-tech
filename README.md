@@ -239,6 +239,9 @@
   </a>
 </p>
 
+<h2>Github Stats</h2>
+<hr>
+
 ![ashraful-tech's Stats](https://github-readme-stats.vercel.app/api?username=ashraful-tech&theme=dracula&show_icons=true&hide_border=false&count_private=true)
 
 <br>
