@@ -40,6 +40,18 @@
     MERN (MongoBD, ExpressJs, React, NodeJs) 
   </td>
 </tr>
+
+<tr>
+  <td>React Project</td>
+  <td><b><a href="https://weatherapp-ashraful-tech.netlify.app/" style="text-decoration: none">Weather App</a> </b></td>
+  <td>React</td>
+</tr>
+
+<tr>
+  <td>JavaScript DOM Project</td>
+  <td><b><a href="https://ashraful-tech.github.io/To-Do-App/" style="text-decoration: none">To Do App</a> </b></td>
+  <td>React</td>
+</tr>
     
   </table>
 
