@@ -50,7 +50,7 @@
 <tr>
   <td>JavaScript DOM Project</td>
   <td><b><a href="https://ashraful-tech.github.io/To-Do-App/" style="text-decoration: none">To Do App</a> </b></td>
-  <td>React</td>
+  <td>JavaScript</td>
 </tr>
     
   </table>
