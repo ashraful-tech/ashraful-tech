@@ -21,7 +21,7 @@
 - 🔭 I’m currently working on **MERN STACK WEB DEVELOPEMENT** - 📫 How to reach
   me **islam.ashraful.cse@gmail.com**
 
-**Resume** <a href="https://www.self.so/md-ashraful-islam">Resume</a> <br> <br><br>
+**Resume** <a href="https://www.self.so/md-ashraful-islam-cse">Resume</a> <br> <br><br>
 **Project:-** 
   <table>
     <tr>
